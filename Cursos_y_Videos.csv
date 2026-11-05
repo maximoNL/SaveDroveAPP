@@ -1,0 +1,7 @@
+﻿ID_Curso,Curso,Maestro,Progreso,Progreso_del_curso,Tiempo_del_video,Enlace_del_video,Tema_del_video
+CRS_101,Reglamento_de_Transito_y_Senalizacion,Ing_Roberto_Garza,100%,Completado,25_Minutos,https://www.youtube.com/watch?v=QqNInExlqW0,Senales_viales_y_reglas_basicas
+CRS_102,Estacionamiento_en_Reversa_y_en_Paralelo,Dra_Laura_Andrade,75%,En_Progreso,40_Minutos,https://www.youtube.com/watch?v=ScrpmhjjEbA,Tecnicas_de_estacionamiento
+CRS_103,Tecnicas_de_Conduccion_Defensiva,Capitan_Carlos_Ruiz,50%,En_Progreso,35_Minutos,https://www.youtube.com/watch?v=CCCUTqJ3dBA,Prevencion_de_accidentes
+CRS_104,Mantenimiento_Basico_del_Automovil,Mec_Javier_Lopez,20%,En_Progreso,50_Minutos,https://www.youtube.com/watch?v=LF_JWThZv5I,Revision_de_componentes_y_liquidos
+CRS_105,Conduccion_Segura_en_Carretera_y_Lluvia,Ing_Roberto_Garza,0%,No_Iniciado,30_Minutos,https://www.youtube.com/watch?v=MwuJ-eBlmRo,Manejo_bajo_condiciones_adversas
+CRS_106,Manejo_de_Emergencias_y_Frenado_ABS,Dra_Laura_Andrade,10%,En_Progreso,45_Minutos,https://www.youtube.com/watch?v=KNTUJWaG-BQ,Maniobras_de_frenado_urgente

@@ -1,0 +1,122 @@
+{
+ "USR_002": {
+  "xp": 560,
+  "puntos": 560,
+  "quiz_done": true,
+  "nivel_experiencia": "Principiante",
+  "vehiculo_tipo": "Urbana",
+  "vehiculo_color": "#FF6349",
+  "contactos": [],
+  "curso_prog": {},
+  "mision_prog": {},
+  "mision_reclamada": [],
+  "mision_fecha": {
+   "Mision_01": "2026-11-04"
+  },
+  "partes_vistas": [],
+  "racha": {
+   "dias": 0,
+   "ultimo": ""
+  },
+  "notas": {
+   "live_L01": ""
+  },
+  "historial": [],
+  "cupones_usados": [],
+  "ultimo_curso": "CRS_102"
+ },
+ "USR_001": {
+  "xp": 5560,
+  "puntos": 5560,
+  "quiz_done": true,
+  "nivel_experiencia": "Principiante",
+  "vehiculo_tipo": "Urbana",
+  "vehiculo_color": "#FF6349",
+  "contactos": [],
+  "curso_prog": {},
+  "mision_prog": {
+   "Mision_04": 60
+  },
+  "mision_reclamada": [],
+  "mision_fecha": {
+   "Mision_01": "2026-11-04"
+  },
+  "partes_vistas": [
+   "Bateria_de_12V",
+   "Fusibles_automotrices"
+  ],
+  "racha": {
+   "dias": 0,
+   "ultimo": ""
+  },
+  "notas": {
+   "live_L01": "",
+   "CRS_103": "",
+   "CRS_101": "",
+   "CRS_102": ""
+  },
+  "historial": [
+   {
+    "ts": "04/11 20:22",
+    "texto": "Revisaste «Fusibles automotrices»"
+   },
+   {
+    "ts": "04/11 20:22",
+    "texto": "Revisaste «Batería de 12V»"
+   }
+  ],
+  "cupones_usados": [],
+  "ultimo_curso": "CRS_102"
+ },
+ "USR_007": {
+  "xp": 560,
+  "puntos": 560,
+  "quiz_done": true,
+  "nivel_experiencia": "Principiante",
+  "vehiculo_tipo": "Urbana",
+  "vehiculo_color": "#FF6349",
+  "contactos": [],
+  "curso_prog": {},
+  "mision_prog": {},
+  "mision_reclamada": [],
+  "mision_fecha": {
+   "Mision_01": "2026-11-05"
+  },
+  "partes_vistas": [],
+  "racha": {
+   "dias": 0,
+   "ultimo": ""
+  },
+  "notas": {},
+  "historial": [],
+  "cupones_usados": [],
+  "ultimo_curso": ""
+ },
+ "USR_003": {
+  "xp": 560,
+  "puntos": 560,
+  "quiz_done": true,
+  "nivel_experiencia": "Principiante",
+  "vehiculo_tipo": "Urbana",
+  "vehiculo_color": "#FF6349",
+  "contactos": [],
+  "curso_prog": {},
+  "mision_prog": {},
+  "mision_reclamada": [],
+  "mision_fecha": {
+   "Mision_01": "2026-11-05"
+  },
+  "partes_vistas": [],
+  "racha": {
+   "dias": 0,
+   "ultimo": ""
+  },
+  "notas": {
+   "live_L01": "",
+   "CRS_102": ""
+  },
+  "historial": [],
+  "cupones_usados": [],
+  "ultimo_curso": "CRS_101"
+ }
+}
